@@ -1,0 +1,46 @@
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+.env
+src/ormconfig.json
+
+# TypeScript compiled files
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Dependency directories
+jspm_packages/
+
+# Generated files
+*.lock
